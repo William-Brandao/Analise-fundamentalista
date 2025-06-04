@@ -50,4 +50,4 @@ Este projeto implementa um pipeline completo e automatizado para análise quanti
 ---
 
 **Autor:** William Brandão  
-**Contato:** [LinkedIn](www.linkedin.com/in/william-brandão-232abb197)
+**Contato:** [LinkedIn]([www.linkedin.com/in/william-brandão-232abb197](https://www.linkedin.com/in/william-brand%C3%A3o-232abb197/)
